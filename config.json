@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://eu.luckpool.net:3956",
 		"timeout": 150
 	}],
-	"user": "VerusMiner01.RGNMxh3nwy6ELtKkzZyzC747AzLiuCC9q8",
+	"user": "RGNMxh3nwy6ELtKkzZyzC747AzLiuCC9q8.VerusMiner",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
