@@ -1,11 +1,11 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        	"url": "stratum+tcp://eu.luckpool.net:3956",
+		"name": "ViporNet",
+        	"url": "stratum+ssl://pl.vipor.net:5140",
 		"timeout": 150
 	}],
-	"user": "RGNMxh3nwy6ELtKkzZyzC747AzLiuCC9q8.VerusMiner04",
+	"user": "RGNMxh3nwy6ELtKkzZyzC747AzLiuCC9q8.VerusMiner05=32",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
