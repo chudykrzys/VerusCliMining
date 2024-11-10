@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "ViporNet",
-        	"url": "stratum+ssl://pl.vipor.net:5140",
+        	"url": "stratum+tcp://pl.vipor.net:5040",
 		"timeout": 150
 	}],
 	"user": "RGNMxh3nwy6ELtKkzZyzC747AzLiuCC9q8.VerusMiner05=32",
